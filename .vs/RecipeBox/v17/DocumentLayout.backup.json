@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\craig\\source\\repos\\RecipeBox\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3E8E99CF-5C61-4537-AF09-B3BA66CCC9CF}|RecipeBox.csproj|c:\\users\\craig\\source\\repos\\recipebox\\components\\pages\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8E99CF-5C61-4537-AF09-B3BA66CCC9CF}|RecipeBox.csproj|solutionrelative:components\\pages\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8E99CF-5C61-4537-AF09-B3BA66CCC9CF}|RecipeBox.csproj|c:\\users\\craig\\source\\repos\\recipebox\\data\\recipecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8E99CF-5C61-4537-AF09-B3BA66CCC9CF}|RecipeBox.csproj|solutionrelative:data\\recipecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8E99CF-5C61-4537-AF09-B3BA66CCC9CF}|RecipeBox.csproj|c:\\users\\craig\\source\\repos\\recipebox\\components\\pages\\recipeedit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E8E99CF-5C61-4537-AF09-B3BA66CCC9CF}|RecipeBox.csproj|solutionrelative:components\\pages\\recipeedit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8E99CF-5C61-4537-AF09-B3BA66CCC9CF}|RecipeBox.csproj|c:\\users\\craig\\source\\repos\\recipebox\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E8E99CF-5C61-4537-AF09-B3BA66CCC9CF}|RecipeBox.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3E8E99CF-5C61-4537-AF09-B3BA66CCC9CF}|RecipeBox.csproj|c:\\users\\craig\\source\\repos\\recipebox\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3E8E99CF-5C61-4537-AF09-B3BA66CCC9CF}|RecipeBox.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8E99CF-5C61-4537-AF09-B3BA66CCC9CF}|RecipeBox.csproj|c:\\users\\craig\\source\\repos\\recipebox\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E8E99CF-5C61-4537-AF09-B3BA66CCC9CF}|RecipeBox.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8E99CF-5C61-4537-AF09-B3BA66CCC9CF}|RecipeBox.csproj|c:\\users\\craig\\source\\repos\\recipebox\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E8E99CF-5C61-4537-AF09-B3BA66CCC9CF}|RecipeBox.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8E99CF-5C61-4537-AF09-B3BA66CCC9CF}|RecipeBox.csproj|c:\\users\\craig\\source\\repos\\recipebox\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3E8E99CF-5C61-4537-AF09-B3BA66CCC9CF}|RecipeBox.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8E99CF-5C61-4537-AF09-B3BA66CCC9CF}|RecipeBox.csproj|c:\\users\\craig\\source\\repos\\recipebox\\recipebox.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E8E99CF-5C61-4537-AF09-B3BA66CCC9CF}|RecipeBox.csproj|solutionrelative:recipebox.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8E99CF-5C61-4537-AF09-B3BA66CCC9CF}|RecipeBox.csproj|c:\\users\\craig\\source\\repos\\recipebox\\wwwroot\\favicon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{3E8E99CF-5C61-4537-AF09-B3BA66CCC9CF}|RecipeBox.csproj|solutionrelative:wwwroot\\favicon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +50,135 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecipeContext.cs",
+              "DocumentMoniker": "C:\\Users\\craig\\source\\repos\\RecipeBox\\Data\\RecipeContext.cs",
+              "RelativeDocumentMoniker": "Data\\RecipeContext.cs",
+              "ToolTip": "C:\\Users\\craig\\source\\repos\\RecipeBox\\Data\\RecipeContext.cs",
+              "RelativeToolTip": "Data\\RecipeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:02:38.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\craig\\source\\repos\\RecipeBox\\Components\\Pages\\Recipe.cs",
+              "RelativeDocumentMoniker": "Components\\Pages\\Recipe.cs",
+              "ToolTip": "C:\\Users\\craig\\source\\repos\\RecipeBox\\Components\\Pages\\Recipe.cs",
+              "RelativeToolTip": "Components\\Pages\\Recipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:22:05.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\craig\\source\\repos\\RecipeBox\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\craig\\source\\repos\\RecipeBox\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T20:31:03.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\craig\\source\\repos\\RecipeBox\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\craig\\source\\repos\\RecipeBox\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T20:29:20.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\craig\\source\\repos\\RecipeBox\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\craig\\source\\repos\\RecipeBox\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-01T20:25:13.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "favicon.png",
+              "DocumentMoniker": "C:\\Users\\craig\\source\\repos\\RecipeBox\\wwwroot\\favicon.png",
+              "RelativeDocumentMoniker": "wwwroot\\favicon.png",
+              "ToolTip": "C:\\Users\\craig\\source\\repos\\RecipeBox\\wwwroot\\favicon.png",
+              "RelativeToolTip": "wwwroot\\favicon.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-01T16:31:15.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\craig\\source\\repos\\RecipeBox\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\craig\\source\\repos\\RecipeBox\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-01T16:30:27.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\craig\\source\\repos\\RecipeBox\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
               "ToolTip": "C:\\Users\\craig\\source\\repos\\RecipeBox\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-01T02:23:44.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecipeEdit.razor",
+              "DocumentMoniker": "C:\\Users\\craig\\source\\repos\\RecipeBox\\Components\\Pages\\RecipeEdit.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\RecipeEdit.razor",
+              "ToolTip": "C:\\Users\\craig\\source\\repos\\RecipeBox\\Components\\Pages\\RecipeEdit.razor",
+              "RelativeToolTip": "Components\\Pages\\RecipeEdit.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T19:23:03.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RecipeBox",
+              "DocumentMoniker": "C:\\Users\\craig\\source\\repos\\RecipeBox\\RecipeBox.csproj",
+              "RelativeDocumentMoniker": "RecipeBox.csproj",
+              "ToolTip": "C:\\Users\\craig\\source\\repos\\RecipeBox\\RecipeBox.csproj",
+              "RelativeToolTip": "RecipeBox.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T19:39:17.35Z",
               "EditorCaption": ""
             }
           ]

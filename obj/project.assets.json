@@ -2,6 +2,25 @@
   "version": 3,
   "targets": {
     "net8.0-android34.0": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        }
+      },
       "GoogleGson/2.10.1.4": {
         "type": "package",
         "compile": {
@@ -2680,6 +2699,25 @@
       }
     },
     "net8.0-android34.0/android-arm": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        }
+      },
       "GoogleGson/2.10.1.4": {
         "type": "package",
         "compile": {
@@ -5352,6 +5390,25 @@
       }
     },
     "net8.0-android34.0/android-arm64": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        }
+      },
       "GoogleGson/2.10.1.4": {
         "type": "package",
         "compile": {
@@ -8024,6 +8081,25 @@
       }
     },
     "net8.0-android34.0/android-x64": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        }
+      },
       "GoogleGson/2.10.1.4": {
         "type": "package",
         "compile": {
@@ -10696,6 +10772,25 @@
       }
     },
     "net8.0-android34.0/android-x86": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        }
+      },
       "GoogleGson/2.10.1.4": {
         "type": "package",
         "compile": {
@@ -13368,6 +13463,25 @@
       }
     },
     "net8.0-android34.0/iossimulator-x64": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        }
+      },
       "GoogleGson/2.10.1.4": {
         "type": "package",
         "compile": {
@@ -16040,6 +16154,25 @@
       }
     },
     "net8.0-android34.0/maccatalyst-x64": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        }
+      },
       "GoogleGson/2.10.1.4": {
         "type": "package",
         "compile": {
@@ -18712,6 +18845,25 @@
       }
     },
     "net8.0-android34.0/win10-x64": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        }
+      },
       "GoogleGson/2.10.1.4": {
         "type": "package",
         "compile": {
@@ -21384,6 +21536,25 @@
       }
     },
     "net8.0-ios18.0": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -22276,6 +22447,25 @@
       }
     },
     "net8.0-ios18.0/android-arm": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -23162,6 +23352,25 @@
       }
     },
     "net8.0-ios18.0/android-arm64": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -24048,6 +24257,25 @@
       }
     },
     "net8.0-ios18.0/android-x64": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -24934,6 +25162,25 @@
       }
     },
     "net8.0-ios18.0/android-x86": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -25820,6 +26067,25 @@
       }
     },
     "net8.0-ios18.0/iossimulator-x64": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -26706,6 +26972,25 @@
       }
     },
     "net8.0-ios18.0/maccatalyst-x64": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -27592,6 +27877,25 @@
       }
     },
     "net8.0-ios18.0/win10-x64": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -28478,6 +28782,25 @@
       }
     },
     "net8.0-maccatalyst18.0": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -29370,6 +29693,25 @@
       }
     },
     "net8.0-maccatalyst18.0/android-arm": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -30256,6 +30598,25 @@
       }
     },
     "net8.0-maccatalyst18.0/android-arm64": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -31142,6 +31503,25 @@
       }
     },
     "net8.0-maccatalyst18.0/android-x64": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -32028,6 +32408,25 @@
       }
     },
     "net8.0-maccatalyst18.0/android-x86": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -32914,6 +33313,25 @@
       }
     },
     "net8.0-maccatalyst18.0/iossimulator-x64": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -33800,6 +34218,25 @@
       }
     },
     "net8.0-maccatalyst18.0/maccatalyst-x64": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -34686,6 +35123,25 @@
       }
     },
     "net8.0-maccatalyst18.0/win10-x64": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -35572,6 +36028,25 @@
       }
     },
     "net8.0-windows10.0.19041": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -36633,6 +37108,25 @@
       }
     },
     "net8.0-windows10.0.19041/android-arm": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -37648,6 +38142,25 @@
       }
     },
     "net8.0-windows10.0.19041/android-arm64": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -38663,6 +39176,25 @@
       }
     },
     "net8.0-windows10.0.19041/android-x64": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -39678,6 +40210,25 @@
       }
     },
     "net8.0-windows10.0.19041/android-x86": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -40693,6 +41244,25 @@
       }
     },
     "net8.0-windows10.0.19041/iossimulator-x64": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -41708,6 +42278,25 @@
       }
     },
     "net8.0-windows10.0.19041/maccatalyst-x64": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -42723,6 +43312,25 @@
       }
     },
     "net8.0-windows10.0.19041/win10-x64": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -43745,6 +44353,36 @@
     }
   },
   "libraries": {
+    "EntityFramework/6.2.0": {
+      "sha512": "ptGyXOf26qLrtn+2doAmylIlCxOnBJANwlyyLrXDmqIk9O18IzLWHyxDwwAyhgXkxmbiaA0WNpRy67WRReInBw==",
+      "type": "package",
+      "path": "entityframework/6.2.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/net40/App.config.transform",
+        "content/net40/Web.config.transform",
+        "entityframework.6.2.0.nupkg.sha512",
+        "entityframework.nuspec",
+        "lib/net40/EntityFramework.SqlServer.dll",
+        "lib/net40/EntityFramework.SqlServer.xml",
+        "lib/net40/EntityFramework.dll",
+        "lib/net40/EntityFramework.xml",
+        "lib/net45/EntityFramework.SqlServer.dll",
+        "lib/net45/EntityFramework.SqlServer.xml",
+        "lib/net45/EntityFramework.dll",
+        "lib/net45/EntityFramework.xml",
+        "tools/EntityFramework.PowerShell.Utility.dll",
+        "tools/EntityFramework.PowerShell.dll",
+        "tools/EntityFramework.psd1",
+        "tools/EntityFramework.psm1",
+        "tools/about_EntityFramework.help.txt",
+        "tools/init.ps1",
+        "tools/install.ps1",
+        "tools/migrate.exe"
+      ]
+    },
     "GoogleGson/2.10.1.4": {
       "sha512": "L1vdbwbQzvKUoUGiMpMoJG5fqfLXaP6zMy1a26AYJQJSQKUO7Ojr2U5BAmgQoRxQ8J2GDjBfnfgnrsnorb4y5Q==",
       "type": "package",
@@ -48598,6 +49236,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0-android34.0": [
+      "EntityFramework >= 6.2.0",
       "Microsoft.AspNetCore.Components.WebView.Maui >= 8.0.82",
       "Microsoft.EntityFrameworkCore >= 9.0.2",
       "Microsoft.Extensions.Logging.Debug >= 8.0.0",
@@ -48606,6 +49245,7 @@
       "Microsoft.NET.ILLink.Tasks >= 8.0.10"
     ],
     "net8.0-ios18.0": [
+      "EntityFramework >= 6.2.0",
       "Microsoft.AspNetCore.Components.WebView.Maui >= 8.0.82",
       "Microsoft.EntityFrameworkCore >= 9.0.2",
       "Microsoft.Extensions.Logging.Debug >= 8.0.0",
@@ -48614,6 +49254,7 @@
       "Microsoft.NET.ILLink.Tasks >= 8.0.10"
     ],
     "net8.0-maccatalyst18.0": [
+      "EntityFramework >= 6.2.0",
       "Microsoft.AspNetCore.Components.WebView.Maui >= 8.0.82",
       "Microsoft.EntityFrameworkCore >= 9.0.2",
       "Microsoft.Extensions.Logging.Debug >= 8.0.0",
@@ -48622,6 +49263,7 @@
       "Microsoft.NET.ILLink.Tasks >= 8.0.10"
     ],
     "net8.0-windows10.0.19041": [
+      "EntityFramework >= 6.2.0",
       "Microsoft.AspNetCore.Components.WebView.Maui >= 8.0.82",
       "Microsoft.EntityFrameworkCore >= 9.0.2",
       "Microsoft.Extensions.Logging.Debug >= 8.0.0",
@@ -48695,6 +49337,10 @@
       "net8.0-android34.0": {
         "targetAlias": "net8.0-android",
         "dependencies": {
+          "EntityFramework": {
+            "target": "Package",
+            "version": "[6.2.0, )"
+          },
           "Microsoft.AspNetCore.Components.WebView.Maui": {
             "target": "Package",
             "version": "[8.0.82, )"
@@ -48746,6 +49392,10 @@
       "net8.0-ios18.0": {
         "targetAlias": "net8.0-ios",
         "dependencies": {
+          "EntityFramework": {
+            "target": "Package",
+            "version": "[6.2.0, )"
+          },
           "Microsoft.AspNetCore.Components.WebView.Maui": {
             "target": "Package",
             "version": "[8.0.82, )"
@@ -48797,6 +49447,10 @@
       "net8.0-maccatalyst18.0": {
         "targetAlias": "net8.0-maccatalyst",
         "dependencies": {
+          "EntityFramework": {
+            "target": "Package",
+            "version": "[6.2.0, )"
+          },
           "Microsoft.AspNetCore.Components.WebView.Maui": {
             "target": "Package",
             "version": "[8.0.82, )"
@@ -48849,6 +49503,10 @@
       "net8.0-windows10.0.19041": {
         "targetAlias": "net8.0-windows10.0.19041.0",
         "dependencies": {
+          "EntityFramework": {
+            "target": "Package",
+            "version": "[6.2.0, )"
+          },
           "Microsoft.AspNetCore.Components.WebView.Maui": {
             "target": "Package",
             "version": "[8.0.82, )"
@@ -48921,5 +49579,17 @@
         "#import": []
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'EntityFramework 6.2.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-android34.0'. This package may not be fully compatible with your project.",
+      "libraryId": "EntityFramework",
+      "targetGraphs": [
+        "net8.0-android34.0"
+      ]
+    }
+  ]
 }
